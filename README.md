@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, I'm Cindy, a Business Intelligence Analyst with a Master's degree in Psychology. I have 2-3 years of enriching experience in the nonprofit sector and a deep passion for data.
+Hello, I'm Cindy, a Business Intelligence Analyst with a Master's degree in Psychology. I have 3-4 years of enriching experience in the nonprofit sector and a deep passion for data.
 
 My background in psychology allows me to bring a unique perspective to data analysis, combining a profound understanding of human behavior with strong analytical skills. I'm proficient in statistical analysis and skilled in tools like R Statistical Programming, Excel, PowerApps, and SQL, enabling me to transform raw data into actionable insights.
 
