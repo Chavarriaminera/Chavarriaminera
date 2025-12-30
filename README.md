@@ -1,23 +1,21 @@
 ## Hi, I’m Cindy 👋
 
-Data Scientist with a Master’s degree in Psychology, specializing in
-sentiment analysis, exploratory data analysis, and data visualization.
+Behavioral + NLP data scientist (M.S. Psychology) building sentiment analysis projects, EDA storytelling, and analytics dashboards.
 
-### What I work on
-- NLP & sentiment analysis (VADER, text features)
-- Exploratory data analysis & visualization
-- Python, R, SQL, Power BI / DAX
-- Translating human behavior into measurable signals
+**Toolbox:** Python (pandas, matplotlib), SQL, Power BI (DAX), NLP (VADER)
 
-### Featured Project
-📊 **Bitcoin Sentiment Analysis**
-- Large-scale tweet sentiment analysis
-- Log-scaled visualizations to surface rare extreme sentiment
-- Focus on distributional behavior and imbalance
+### What I build
+- Sentiment pipelines: text cleaning → scoring → features → evaluation
+- Distribution-focused EDA (imbalance, outliers, log-scale visuals)
+- Dashboards that translate behavior into measurable signals
 
-⬇️ See pinned repositories below
+### Featured project: Bitcoin Sentiment Analysis
+- Large-scale tweet sentiment scoring + distribution analysis  
+- Log-scale visualizations to surface rare extreme sentiment  
+- (Optional) Token insights with smoothed log-odds (class A vs class B)
 
 ### Background
-- M.S. Psychology
-- Strong statistical foundation
+- M.S. Psychology • strong stats foundation
 - Experience building dashboards and analytical workflows
+
+📌 Check out my pinned repos below • Connect on LinkedIn
