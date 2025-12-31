@@ -50,12 +50,36 @@
 </p>
 
 ---
+## ✦ Summary
 
-## ✦ Profile
-I specialize in **measuring language + operations as signal**:
-- **Distribution-first NLP/EDA** (imbalance, long tails, rare-event surfacing)
-- **Monitoring-minded ML** (anomalies, drift awareness, actionable alerting)
-- **Executive reporting systems** (metrics that survive scrutiny + ship fast)
+I’m a Data Scientist who blends a strong behavioral foundation with practical, production-minded analytics. With an M.S. in Psychology, I translate human behavior and messy real-world operations into measurable signals—then present them in a way that’s clear, defensible, and decision-ready.
+
+### What I work on
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF5DA2&section=header" width="210" />
+
+- **Python + NLP/EDA:** sentiment analysis, distribution-aware exploration (imbalance/long tails), and visualization choices that surface rare but meaningful patterns rather than hiding them in averages.
+- **SQL analytics (healthcare):** reporting + metrics workflows—joins, window functions, and reusable reporting structures tied to operational realities.
+- **Databricks / RAG foundations:** reliable ingestion layers (PDF → extracted text → chunked outputs → structured tables) with hashing/deduplication and failure logging to support embeddings + retrieval quality.
+
+### How I think
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=F7A8C6&section=header" width="170" />
+
+I bring a **monitoring mindset** to analytics—prioritizing reliability, drift/anomaly awareness, and outputs that can be trusted over time (not just in a one-off notebook).  
+
+
+### Off-hours
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FDE2E9&section=header" width="140" />
+Woking on my working on my code, with my family, stock trading, or working on my AI Pokémon team builder.
+
+Fun Fact about me: *Milotic* is my favorite for the same reason I like good models: elegant, resilient, major glow-up energy, and hard to knock off course.
+
+<div align="center">
+  <img src="assets/milotic.png" width="240" alt="Milotic" />
+</div>
+
+
+---
+
 
 ---
 
