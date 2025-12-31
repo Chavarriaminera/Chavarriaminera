@@ -1,33 +1,53 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=900&color=111827&center=true&vCenter=true&width=980&lines=Cindy+Chavarria+Minera;Data+Scientist+%7C+NLP+%7C+ML+Monitoring+%7C+Analytics;Python+%7C+SQL+%7C+Power+BI+%7C+Databricks" />
+<!-- 🌹 Big calligraphy name (pink) — widened so it won't clip -->
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=120&pause=1600&color=FF5DA2&center=true&vCenter=true&width=2400&height=160&lines=Cindy+Elizabeth+Chavarria+Minera" />
+
+
+<!-- Soft gold subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1600&color=F7A8C6&center=true&vCenter=true&width=1600&lines=Data+Scientist+%7C+NLP+%7C+ML+Monitoring+%7C+Analytics;Python+%7C+SQL+%7C+Power+BI+%7C+Databricks" />
+
+<!-- Blush divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=F7A8C6&section=header" width="78%" />
 
 <p>
-  <b>Data Scientist</b> turning messy operational + behavioral data into <b>reliable signals</b>—distribution-aware NLP/EDA, monitoring-minded ML, and exec-ready reporting.
+  <b>Data Scientist</b> turning messy operational + behavioral data into <b>reliable signals</b> —
+  distribution-aware NLP/EDA, monitoring-minded ML, and exec-ready reporting.
 </p>
+
+<p>🔐 <b>Active Security Clearance:</b> Interim Top Secret (TS)</p>
+
 
 <p>
-  🔐 <b>Active Security Clearance:</b> Interim Top Secret (TS)
+  <img src="https://img.shields.io/badge/Python-FDE2E9?style=for-the-badge&logo=python&logoColor=2A0F1D" />
+  <img src="https://img.shields.io/badge/SQL-FDE2E9?style=for-the-badge&logo=postgresql&logoColor=2A0F1D" />
+  <img src="https://img.shields.io/badge/Power%20BI%20(DAX)-FDE2E9?style=for-the-badge&logo=powerbi&logoColor=2A0F1D" />
+  <img src="https://img.shields.io/badge/NLP-FDE2E9?style=for-the-badge&logo=github&logoColor=2A0F1D" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FDE2E9?style=for-the-badge&logo=scikitlearn&logoColor=2A0F1D" />
+  <img src="https://img.shields.io/badge/Databricks-FDE2E9?style=for-the-badge&logo=databricks&logoColor=2A0F1D" />
 </p>
+
+
+
 
 <p>
-  <a href="https://www.linkedin.com/in/cindy-chavarria">LinkedIn</a> •
-  <a href="mailto:cindyelizabethchavarriaminera@gmail.com">Email</a> •
-  <a href="#-selected-work">Selected Work</a> •
-  <a href="#-project-deep-dives">Project Deep Dives</a> •
-  <a href="#-methods--toolkit">Methods</a>
-</p>
-
 <p>
-  <img src="https://img.shields.io/badge/Python-0B1220?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-0B1220?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI%20(DAX)-0B1220?logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-0B1220?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-0B1220?logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-0B1220?logo=databricks&logoColor=white" />
+  <a href="https://www.linkedin.com/in/cindy-chavarria">
+    <img src="https://img.shields.io/badge/LinkedIn-FF8FC4?style=for-the-badge&logo=linkedin&logoColor=2A0F1D" />
+  </a>
+  <a href="mailto:cindyelizabethchavarriaminera@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF8FC4?style=for-the-badge&logo=gmail&logoColor=2A0F1D" />
+  </a>
+  <a href="#-selected-work">
+    <img src="https://img.shields.io/badge/Selected%20Work-FF8FC4?style=for-the-badge&logo=github&logoColor=2A0F1D" />
+  </a>
+  <a href="#-project-deep-dives">
+    <img src="https://img.shields.io/badge/Deep%20Dives-FF8FC4?style=for-the-badge&logo=readme&logoColor=2A0F1D" />
+  </a>
+  <a href="#-methods--toolkit">
+    <img src="https://img.shields.io/badge/Methods-FF8FC4?style=for-the-badge&logo=bookstack&logoColor=2A0F1D" />
+  </a>
 </p>
-
-</div>
 
 ---
 
@@ -111,7 +131,7 @@ A sandbox for AI-assisted workflows, decision logic, and automation experiments.
 
 <div align="center">
 
-<b>Let’s connect:</b> <a href="https://www.linkedin.com/in/cindy-chavarria">LinkedIn</a> • <a href="mailto:cindyelizabethchavarriaminera@gmail.com">Email</a>
+<img src="https://raw.githubusercontent.com/Chavarriaminera/Chavarriaminera/main/assets/sigil.png" width="12" alt="" />
+<p><i>“Cleanse → Calibrate → Reveal Signal.”</i> ✧</p>
 
 </div>
-
