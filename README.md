@@ -64,7 +64,7 @@ I’m a Data Scientist who blends a strong behavioral foundation with practical,
 ### How I think
 <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=F7A8C6&section=header" width="170" />
 
-I bring a **monitoring mindset** to analytics—prioritizing reliability, drift/anomaly awareness, and outputs that can be trusted over time (not just in a one-off notebook).  
+I think in systems and sequences—I quickly turn messy problems into clear, step-by-step workflows, priorities, and next actions. I’m evidence-driven and quality-focused, balancing analytical rigor with the ability to translate complex details into clean, stakeholder-friendly outputs. I iterate fast: I prototype, spot issues early, refine, and ship polished results. I’m naturally cross-functional, connecting technical execution with real-world impact and communicating decisions with clear rationale.
 
 
 ### Off-hours
